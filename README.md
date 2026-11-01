@@ -4,7 +4,6 @@ A beginner-friendly C++ program that checks whether a given date is valid.
 <br>
 
 # Features 
-<br>
 Validates date, month, and year.
 <br>
 Identifies leap years using leap year conditions.
